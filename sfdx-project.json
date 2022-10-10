@@ -1,11 +1,28 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "GIFter\\force-app",
+            "default": true,
+            "package": "GIFter",
+            "versionName": "Summer '22",
+            "versionNumber": "1.0.0.NEXT"
+        },
+        {
+            "path": "CommonPackage",
+            "package": "Common",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "GIFter": "0Ho7R000000TNEESA4",
+        "GIFter@1.0.0-1": "04t7R0000018jxgQAA",
+        "Common": "0Ho7R000000TNEJSA4",
+        "Common@0.1.0-1": "04t7R0000018jxlQAA",
+        "Common@1.0.0-1": "04t7R0000018jxqQAA"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
 }
