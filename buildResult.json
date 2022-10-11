@@ -1,21 +1,21 @@
 {
     "packages": [
         {
-            "name": "Common",
-            "version": "1.1.0.5",
-            "elapsed_time": 21059,
+            "name": "GIFter",
+            "version": "1.1.0.6",
+            "elapsed_time": 46865,
             "status": "succeeded"
         },
         {
-            "name": "GIFter",
-            "version": "1.1.0.5",
-            "elapsed_time": 25983,
+            "name": "Common",
+            "version": "1.1.0.6",
+            "elapsed_time": 54126,
             "status": "succeeded"
         }
     ],
     "summary": {
         "scheduled_packages": 2,
-        "elapsed_time": 31589,
+        "elapsed_time": 62444,
         "succeeded": 2,
         "failed": 0
     }
