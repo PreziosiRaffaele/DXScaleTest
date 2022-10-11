@@ -31,6 +31,7 @@ public virtual class TriggerHandler {
     public void run() {
 
       if(!validateRun()) {
+
         return;
       }
 

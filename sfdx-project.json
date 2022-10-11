@@ -5,13 +5,13 @@
             "default": true,
             "package": "GIFter",
             "versionName": "Summer '22",
-            "versionNumber": "1.0.0.NEXT"
+            "versionNumber": "1.1.0.NEXT"
         },
         {
             "path": "CommonPackage",
             "package": "Common",
             "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT",
+            "versionNumber": "1.1.0.NEXT",
             "default": false
         }
     ],

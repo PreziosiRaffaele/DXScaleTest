@@ -5,6 +5,9 @@
 # Salesforce cache
 .sfdx/
 .sf/
+.sfpowerscripts/
+artifacts/
+
 
 # Visual Studio Code files
 .vscode/
